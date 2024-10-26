@@ -1,1 +1,1 @@
-This template repo is used to illustrate a [flux-managed Kubernetes cluster](http://localhost:8123/kubernetes/deployment/flux/), in Funky Penguin's Geek Cookbook
+This repo contains examples from my "From DevOps to GitOps: Supercharging Your Kubernetes Workload Deployments" talk at All Things Open 2024 in Raleigh, NC.
